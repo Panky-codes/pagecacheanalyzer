@@ -1,0 +1,6 @@
+cpus=4
+             fsx-595   [003]    56.704217: mm_filemap_add_to_page_cache: dev 254:1 ino 203e7 pfn=0x11802a ofs=151552 order=0
+             fsx-595   [003]    56.713036: mm_filemap_add_to_page_cache: dev 259:0 ino 203 pfn=0x10ee0c ofs=0 order=2
+             fsx-595   [003]    56.713059: mm_filemap_add_to_page_cache: dev 259:0 ino 203 pfn=0x10ee10 ofs=16384 order=2
+             fsx-595   [003]    56.713059: mm_filemap_add_to_page_cache: dev 259:0 ino 203 pfn=0x10ee10 ofs=65536 order=2
+             fsx-595   [003]    56.713144: mm_filemap_delete_from_page_cache: dev 259:0 ino 203 pfn=0x10ee0c ofs=16384 order=3
